@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../btvn_tuan_9/btvn_tuan_9.vcxproj" Id="56eb13e6-621a-478b-98c6-12e063290d6e" />
   <Project Path="TRAN_MINH_HAI_202414095_BTVN_CTDL_GT_TUAN_7.vcxproj" Id="a2fb029c-c900-4cc4-a910-257805cd988c" />
 </Solution>
